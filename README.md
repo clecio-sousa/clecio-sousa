@@ -1,8 +1,8 @@
 ### Olá, eu sou o Clécio 👋
 
 
-- 🔭 Estou trabalhando atualmente com suporte técnico
-- 🌱 Atualmente esto aprendendo Python e Front-end
+- 🔭 Estou trabalhando com suporte técnico
+- 🌱 Atualmente esto aprendendo Python/Django e Front-end
 - 📫 Email: clecio1201@hotmail.com
 - 🖥 Linkedin: https://www.linkedin.com/in/clecio-sousa/
 
